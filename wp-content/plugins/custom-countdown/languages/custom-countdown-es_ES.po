@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Countdown\n"
+"POT-Creation-Date: 2024-03-20 12:00+0000\n"
+"PO-Revision-Date: 2024-03-20 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Hrs"
+msgstr "Hrs"
+
+msgid "Mins"
+msgstr "Mins"
+
+msgid "Secs"
+msgstr "Segs"
+
+msgid "Countdown Settings"
+msgstr "Configuración de Cuenta Regresiva"
+
+msgid "Countdown"
+msgstr "Cuenta Regresiva"
+
+msgid "Font Family"
+msgstr "Tipo de Letra"
+
+msgid "Numbers Font Size"
+msgstr "Tamaño de Números"
+
+msgid "Numbers Color"
+msgstr "Color de Números"
+
+msgid "Labels Color"
+msgstr "Color de Etiquetas"
+
+msgid "Box Background Color"
+msgstr "Color de Fondo"
+
+msgid "Border Style"
+msgstr "Estilo de Borde"
+
+msgid "Border Color"
+msgstr "Color de Borde"
+
+msgid "Border Width"
+msgstr "Ancho de Borde"
+
+msgid "Border Radius"
+msgstr "Radio de Borde"
+
+msgid "Hide When Expired"
+msgstr "Ocultar cuando expire" 

@@ -1,0 +1,92 @@
+# Copyright (C) 2024 Your Name
+# This file is distributed under the same license as the Custom Countdown plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Countdown 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-countdown\n"
+"POT-Creation-Date: 2024-03-20 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: custom-countdown\n"
+
+#. Plugin Name of the plugin
+msgid "Custom Countdown"
+msgstr ""
+
+#. Description of the plugin
+msgid "A customizable countdown timer with shortcode support"
+msgstr ""
+
+#: includes/shortcode.php:47
+msgid "Days"
+msgstr ""
+
+#: includes/shortcode.php:52
+msgid "Hrs"
+msgstr ""
+
+#: includes/shortcode.php:57
+msgid "Mins"
+msgstr ""
+
+#: includes/shortcode.php:62
+msgid "Secs"
+msgstr ""
+
+#: includes/settings-page.php:31
+msgid "Countdown Settings"
+msgstr ""
+
+#: includes/settings-page.php:32
+msgid "Countdown"
+msgstr ""
+
+#: includes/settings-page.php:52
+msgid "Countdown Style Settings"
+msgstr ""
+
+#: includes/settings-page.php:71
+msgid "Font Family"
+msgstr ""
+
+#: includes/settings-page.php:75
+msgid "Numbers Font Size"
+msgstr ""
+
+#: includes/settings-page.php:79
+msgid "Numbers Color"
+msgstr ""
+
+#: includes/settings-page.php:83
+msgid "Labels Color"
+msgstr ""
+
+#: includes/settings-page.php:87
+msgid "Box Background Color"
+msgstr ""
+
+#: includes/settings-page.php:91
+msgid "Border Style"
+msgstr ""
+
+#: includes/settings-page.php:95
+msgid "Border Color"
+msgstr ""
+
+#: includes/settings-page.php:99
+msgid "Border Width"
+msgstr ""
+
+#: includes/settings-page.php:103
+msgid "Border Radius"
+msgstr ""
+
+#: includes/settings-page.php:73
+msgid "Hide When Expired"
+msgstr ""
+  
